@@ -207,13 +207,3 @@ NVIDIA_API_KEY=your_nvidia_api_key_here
 4. Test thoroughly
 5. Submit a pull request
 
-## License
-
-MIT License - see LICENSE file for details
-
-## Support
-
-For issues and questions:
-- Check the troubleshooting section above
-- Review Supabase documentation for database/auth issues
-- Check NVIDIA NGC documentation for AI model issues
